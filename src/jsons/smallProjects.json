@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "title": "1 title",
+      "content": "content goes here",
+      "technologies": "Html SCSS Python Flask",
+      "github": {
+        "url": "github.com",
+        "display": ""
+      },
+      "live": {
+        "url": "live.com",
+        "display": ""
+      }
+    },
+    {
+      "id": 2,
+      "title": "2 title",
+      "content": "another content goes here",
+      "img": "./imgs/projectImg.png",
+      "technologies": "Html SCSS JS",
+      "github": {
+        "url": "github.com",
+        "display": ""
+      },
+      "live": {
+        "url": "",
+        "display": "hidden"
+      }
+    },
+    {
+      "id": 3,
+      "title": "3 title",
+      "content": "another content goes here",
+      "technologies": "Html SCSS JS React",
+      "github": {
+        "url": "github.com",
+        "display": ""
+      },
+      "live": {
+        "url": "",
+        "display": "hidden"
+      }
+    },
+    {
+      "id": 4,
+      "title": "4 title",
+      "content": "another content goes here",
+      "technologies": "Html SCSS Python Flask",
+      "github": {
+        "url": "github.com",
+        "display": ""
+      },
+      "live": {
+        "url": "",
+        "display": "hidden"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Hello World",
+      "content": "another content goes here",
+      "technologies": "Html SCSS Python Flask",
+      "github": {
+        "url": "github.com",
+        "display": ""
+      },
+      "live": {
+        "url": "",
+        "display": "hidden"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Hello World",
+      "content": "another content goes here",
+      "technologies": "Html SCSS Python Flask",
+      "github": {
+        "url": "github.com",
+        "display": ""
+      },
+      "live": {
+        "url": "",
+        "display": "hidden"
+      }
+    }
+]

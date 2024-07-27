@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "img": "imgs/projectImg.jpeg",
+      "title": "1 title",
+      "content": "content goes here",
+      "technologies": "Html SCSS Python Flask",
+      "github": {
+        "url": "github.com",
+        "display": ""
+      },
+      "live": {
+        "url": "live.com",
+        "display": ""
+      }
+    },
+    {
+      "id": 2,
+      "img": "imgs/projectImg1.png",
+      "title": "2 title",
+      "content": "another content goes here",
+      "technologies": "Html SCSS JS",
+      "github": {
+        "url": "github.com",
+        "display": ""
+      },
+      "live": {
+        "url": "",
+        "display": "hidden"
+      }
+    },
+    {
+      "id": 3,
+      "img": "imgs/projectImg2.png",
+      "title": "3 title",
+      "content": "another content goes here",
+      "technologies": "Html SCSS JS React",
+      "github": {
+        "url": "github.com",
+        "display": ""
+      },
+      "live": {
+        "url": "",
+        "display": "hidden"
+      }
+    },
+    {
+      "id": 4,
+      "img": "imgs/projectImg1.png",
+      "title": "4 title",
+      "content": "another content goes here",
+      "technologies": "Html SCSS Python Flask",
+      "github": {
+        "url": "github.com",
+        "display": ""
+      },
+      "live": {
+        "url": "",
+        "display": "hidden"
+      }
+    },
+    {
+      "id": 5,
+      "img": "imgs/projectImg2.png",
+      "title": "Hello World",
+      "content": "another content goes here",
+      "technologies": "Html SCSS Python Flask",
+      "github": {
+        "url": "github.com",
+        "display": ""
+      },
+      "live": {
+        "url": "",
+        "display": "hidden"
+      }
+    },
+    {
+      "id": 6,
+      "img": "imgs/projectImg1.png",
+      "title": "Hello World",
+      "content": "another content goes here",
+      "technologies": "Html SCSS Python Flask",
+      "github": {
+        "url": "github.com",
+        "display": ""
+      },
+      "live": {
+        "url": "",
+        "display": "hidden"
+      }
+    }
+]

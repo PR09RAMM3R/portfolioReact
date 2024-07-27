@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face
+{
+    font-family: 'Fira Code';
+    src: url(../Font/FiraCode-VariableFont_wght.ttf);
+}
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fira Code';
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}  
+::-webkit-scrollbar-thumb {
+    background: #C778DD;
+    border-radius: 10px;
+}
+
+h1
+{
+    font-size: 32px;
+    font-weight: 600;
+}
+h2
+{
+    font-size: 24px;
+    font-weight: 600;
+}
